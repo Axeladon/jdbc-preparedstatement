@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+gradle/
+gradlew
+gradlew.bat
+jdbc_h2.iml
+settings.gradle.kts
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nb-configuration.xml
+
+# Visual Studio Code
+.vscode/
